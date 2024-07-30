@@ -5,7 +5,6 @@ This repository holds my research paper on the Rust programming language and the
 ## Table of Contents
 
 - [Rust-Installation](#rust-installation)
-- [Usage](#usage)
 - [Example](#example)
 - [Important-Notice](#important-notice)
 
