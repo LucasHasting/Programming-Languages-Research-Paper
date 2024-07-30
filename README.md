@@ -38,17 +38,17 @@ The programs in this repository can be executed using the [Rust](https://www.rus
    ```
 
 ### Compile and Execute
-Compile the program
+Compile the program:
     ```sh
     rustc program-name
     ```
 
-Executing the program in Windows
+Executing the program in Windows:
     ```sh
     program-name.exe
     ```
 
-Executing the program in Linux/Mac
+Executing the program in Linux/Mac:
     ```sh
     program-name.exe
     ```
