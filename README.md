@@ -50,7 +50,7 @@ program-name.exe
 
 Executing the program in Linux/Mac:
 ```sh
-program-name.exe
+./program-name
 ```
 
 ## Example
