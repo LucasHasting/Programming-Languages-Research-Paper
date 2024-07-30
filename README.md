@@ -19,12 +19,12 @@ The programs in this repository can be executed using the [Rust](https://www.rus
     git clone https://github.com/LucasHasting/Programming-Languages-Research-Paper.git
     ```
 
-2. Navigate to the project directory and execute the program:
-
+2. Navigate to the project directory:
+    
     ```sh
     cd Programming-Languages-Research-Paper/Programs
-    rustc program-name.rs
     ```
+    
 ### Option 2: without git
 1. Download the project as a zip file
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
@@ -35,8 +35,23 @@ The programs in this repository can be executed using the [Rust](https://www.rus
 3. go to the command line and run the following:
    ```sh
    cd /path/to/files
-   rustc program-name.rs
    ```
+
+### Compile and Execute
+Compile the program
+    ```sh
+    rustc program-name
+    ```
+
+Executing the program in Windows
+    ```sh
+    program-name.exe
+    ```
+
+Executing the program in Linux/Mac
+    ```sh
+    program-name.exe
+    ```
 
 ## Example
 
