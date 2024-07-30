@@ -17,13 +17,13 @@ The programs in this repository can be executed using the [Rust](https://www.rus
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/LucasHasting/IP-Subnet-Calculator.git
+    git clone https://github.com/LucasHasting/Programming-Languages-Research-Paper.git
     ```
 
 2. Navigate to the project directory and execute the program:
 
     ```sh
-    cd IP-Subnet-Calculator
+    cd Programming-Languages-Research-Paper/Programs
     rustc program-name.rs
     ```
 ### Option 2: without git
