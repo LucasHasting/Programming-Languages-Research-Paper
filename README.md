@@ -1,6 +1,6 @@
 # Programming Languages Rust Research Paper
 
-This repository holds my research paper on the Rust programming language and the programs associated with the paper. The paper can be viewed [here](https://github.com/LucasHasting/Programming-Languages-Research-Paper/blob/main/Paper/CS410W_Research_Paper.pdf). Instructions for executing the programs in the repository are listed below.
+This repository holds my research paper on the Rust programming language and the programs associated with the paper. The paper can be viewed [here](https://github.com/LucasHasting/Programming-Languages-Research-Paper/blob/main/Paper/CS410W_Research_Paper.pdf). All program names consist of the figure number and the name of the figure it belongs to. Instructions for executing the programs in the repository are listed below.
 
 ## Table of Contents
 
