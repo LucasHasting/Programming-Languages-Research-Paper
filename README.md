@@ -1,13 +1,13 @@
 # Programming Languages Rust Research Paper
 
-This repository holds my research paper on the Rust programming language and the programs associated with the paper. The paper can be viewed [here](). 
+This repository holds my research paper on the Rust programming language and the programs associated with the paper. The paper can be viewed [here](https://github.com/LucasHasting/Programming-Languages-Research-Paper/blob/main/Paper/CS410W_Research_Paper.pdf). Instructions for executing the programs in the repository are listed below.
 
 ## Table of Contents
 
-- [Rust-Installation](#installation)
+- [Rust-Installation](#rust-installation)
 - [Usage](#usage)
 - [Example](#example)
-- [Important-Notice](#program-overview)
+- [Important-Notice](#important-notice)
 
 ## Rust-Installation
 
@@ -29,7 +29,6 @@ The programs in this repository can be executed using the [Rust](https://www.rus
 ### Option 2: without git
 1. Download the project as a zip file
 2. [Extract the zip file](https://www.wikihow.com/Unzip-a-File)
-3. In windows, the subnetting.py file can be clicked to execute
 
 #### Run from the command line
 1. Find the location of the files
